@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/libraries/
+/tk-mybatis/.idea/libraries/
+/.idea/
+/code/log/
+/log/
+/tk-mybatis/.idea/
+/tk-mybatis/target/
+/code/target/
+/code/.idea/
+/code/.mvn/
